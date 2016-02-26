@@ -1,4 +1,4 @@
-A principio o projeto não precisará de configuração, basta baixar do github e rodar, pois configurei o projeto para acessar diretamente 
+A principio o projeto não precisará de configuração, basta baixar do github e rodar, pois o configurei para acessar diretamente 
 o banco online do Azure (banco MySql).
 
 Caso seja de sua vontade alterar o banco, basta alterar a connectionString do arquivo Web.config com as configurações do banco local.
